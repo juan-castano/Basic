@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Básico</string>
+    <string name="edit_text_hint">Escriba su nombre</string>
+    <string name="send_button">Enviar</string>
+    <string name="message_text_view">Servicios Web usando Android</string>
+    <string name="web_service_button">Solicitud WS</string>
+</resources>
